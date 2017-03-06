@@ -4,7 +4,7 @@
  * @author huangjj27
  */
 
-// dictionary of QWE encryption
+// dictionary of QWE encryption, add test comments
 var encryptMap = {
   'a':'q', 'b':'w', 'c':'e', 'd':'r', 'e':'t', 'f':'y', 'g':'u', 'h':'i', 'i':'o', 'j':'p',
   'k':'a', 'l':'s', 'm':'d', 'n':'f', 'o':'g', 'p':'h', 'q':'j', 'r':'k', 's':'l',
